@@ -1,0 +1,47 @@
+.total-container {
+  display: flex;
+}
+
+.label {
+  margin-left: 20px;
+}
+
+.input-name,
+.input-time {
+  margin-top: 10px;
+  border: 1px solid darkgray;
+  width: 200px;
+  height: 40px;
+}
+
+.time {
+  margin-left: 40px;
+}
+
+.input-time {
+  margin-left: 20px;
+}
+
+.add {
+  margin-left: 20px;
+  width: 100px;
+  height: 44px;
+  margin-top: 28px;
+  background-color: white;
+  border: 1px solid darkgray;
+}
+
+.time-field {
+  border: 1px solid gray;
+  width: 200px;
+  height: 40px;
+}
+
+.body {
+  display: flex;
+  margin-top: 20px;
+}
+
+.watches {
+  margin-top: 20px;
+}
